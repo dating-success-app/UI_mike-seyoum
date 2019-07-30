@@ -1,0 +1,12 @@
+{
+  "name": "UI_mike-seyoum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dating-success-app/UI_mike-seyoum.git",
+  "author": "mike-seyoum <mikaelseyoum@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.9.0",
+    "less-watch-compiler": "^1.13.0"
+  }
+}

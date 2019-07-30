@@ -1,0 +1,205 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+header {
+  width: 80%;
+  display: flex;
+}
+h1 {
+  width: 100%;
+  height: 40%;
+  margin-left: 100%;
+}
+.header-menu {
+  display: flex;
+}
+.sf-id {
+  font-size: 10%;
+  width: 60%;
+  justify-content: center;
+  height: 80%;
+}
+.dating-id {
+  font-size: 10%;
+  width: 60%;
+  justify-content: center;
+  height: 80%;
+  margin-top: 7%;
+  margin-left: -7%;
+}
+.header-menu h1 {
+  background-color: blue;
+  margin-left: 2%;
+  font-size: 120%;
+  width: 50%;
+  justify-content: space-between;
+}
+.cta-container {
+  display: flex;
+  width: 80%;
+  font-size: 20%;
+  height: 70%;
+  margin-top: 5%;
+}
+.cta-content {
+  background-color: brown;
+}
+.img-id1 {
+  font-size: 50%;
+  width: 50%;
+  border-radius: 50%;
+  height: 90%;
+  margin-left: 10%;
+}
+.p-class1 {
+  text-decoration: black;
+  margin-left: 5%;
+  font-size: 30%;
+}
+.img-id2 {
+  font-size: 80%;
+  width: 45%;
+  border-radius: 50%;
+  height: 90%;
+}
+.inner-1 {
+  background-color: brown;
+}
+.p-class2 {
+  font-size: 30px;
+  margin-left: 10px;
+  width: 60%;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sign-up-btn {
+  display: block;
+  background-color: #ffbf27;
+  margin: 0 10px 20px;
+  cursor: pointer;
+  margin-top: 10%;
+}
